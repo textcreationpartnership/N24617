@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:032603_0000_0FF3D1B2720F7DA0"/>
-            <pb facs="tcp:032603_0001_0FF3CB82F4D928D8" rendition="simple:additions"/>
+            <pb facs="unknown:032603_0000_0FF3D1B2720F7DA0"/>
+            <pb facs="unknown:032603_0001_0FF3CB82F4D928D8"
+                rendition="simple:additions"/>
             <p>
                <hi>Federal Money.</hi> BEING A SKETCH OF THE <hi>Money of Account</hi> OF UNITED AMERICA.</p>
             <p>BY ELIPHALET NOTT, A. M. <hi>Principal of Cherry-Valley Academy.</hi> FIRST EDITION. FOR THE USE OF SCHOOLS.</p>
@@ -124,7 +125,7 @@
       </front>
       <body>
          <div type="mathematical_function">
-            <pb facs="tcp:032603_0002_0FF3D1B81C2E33F0"/>
+            <pb facs="unknown:032603_0002_0FF3D1B81C2E33F0"/>
             <head>MULTIPLICATION. Examples.</head>
             <p>Bought 55 buſhels of Corn at 1 D. 1 <choice>
                   <abbr>D.</abbr>
@@ -155,7 +156,7 @@
             <p>In example 2d, There are only two fig<g ref="char:EOLhyphen"/>ures at the right hand of the dot in the queſ<g ref="char:EOLhyphen"/>tion conſeqently, two figures only, are to be dotted off in the anſwer.</p>
          </div>
          <div type="mathematical_function">
-            <pb facs="tcp:032603_0003_0FF3D1BA69052CC8"/>
+            <pb facs="unknown:032603_0003_0FF3D1BA69052CC8"/>
             <head>REDUCTION at <hi>Federal MONEY.</hi>
             </head>
             <div type="rule">
@@ -201,7 +202,7 @@
             </div>
          </div>
          <div type="mathematical_function">
-            <pb facs="tcp:032603_0004_0FF3D1BC10A70020"/>
+            <pb facs="unknown:032603_0004_0FF3D1BC10A70020"/>
             <head>DIVISION.</head>
             <p>RULE. The figures at the right hand of the dot in the diviſor and quotient counted together, muſt be equal to thoſe pointed off in the dividend. When there are no figures pointed off in the diviſor, then you muſt point off as many figures in the anſwer, as there are pointed off in the dividend.</p>
             <gap reason="math">
@@ -223,7 +224,7 @@
             <p>As there were no figures pointed off in the Diviſor of the above ſums, ſo many fig<g ref="char:EOLhyphen"/>ures were to be pointed off, in the anſwer, as there were pointed off in the Dividend.</p>
          </div>
          <div type="mathematical_function">
-            <pb facs="tcp:032603_0005_0FF3D1BF2F74C208"/>
+            <pb facs="unknown:032603_0005_0FF3D1BF2F74C208"/>
             <head>SIMPLE INTEREST <hi>of Federal MONEY.</hi>
             </head>
             <div type="table_of_ratios">
@@ -292,7 +293,7 @@
                   <desc>〈 math 〉</desc>
                </gap>
                <p>
-                  <pb facs="tcp:032603_0006_0FF3D1C20FFD3360"/>Note. That in every Multiplication, you muſt point off as many figures, to the right hand, as there are figures at the right hand of the dot, in the multiplier, and multiplicand both; in the above ſum, in the firſt multiplication, there were .16 &amp; 07 which counted together, make four, therefore four figures are to be pointed off.</p>
+                  <pb facs="unknown:032603_0006_0FF3D1C20FFD3360"/>Note. That in every Multiplication, you muſt point off as many figures, to the right hand, as there are figures at the right hand of the dot, in the multiplier, and multiplicand both; in the above ſum, in the firſt multiplication, there were .16 &amp; 07 which counted together, make four, therefore four figures are to be pointed off.</p>
                <p>In the ſecond Multiplication, there were four at the right hand of the <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> in the multiplicand; but none in the multipli<g ref="char:EOLhyphen"/>er, therefore four only, are to be pointed off in the anſwer.</p>
